@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/chwerth/chwerth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Skills
+---
+**Programming Languages**: Python, C, C++, Bash, CMake, HTML, CSS, JavaScript, SQL, XML<br>
+**Soft Skills**: Public Speaking, Writing, Project Management, Leadership, Scaled Agile Framework (SAFe)<br>
+**Tools**: MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+---
+**The University of Alabama**, Tuscaloosa, AL<br>
+Master of Business Administration, August 2022<br>
+Focus Area: Supply Chain and Operations Management<br>
+GPA: 3.60 / 4.00
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chwerth/chwerth.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**The University of Alabama**, Tuscaloosa, AL<br>
+Bachelor of Science, December 2020<br>
+Computer Science<br>
+GPA: 4.00 / 4.00
