@@ -3,8 +3,10 @@
 ## Contact
 ---
 
-**Email**: cwerth@crimson.ua.edu
 **Phone**: 256-655-8135
+
+**Email**: cwerth@crimson.ua.edu
+
 **LinkedIn**: https://www.linkedin.com/in/chwerth/
 
 ## Summary
