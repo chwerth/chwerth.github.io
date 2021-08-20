@@ -10,6 +10,7 @@
 **LinkedIn**: [https://www.linkedin.com/in/chwerth/](https://www.linkedin.com/in/chwerth/)
 
 ## Summary
+---
 
 I am a computer scientist with a diverse set of technical and soft skills derived from experience in software development, event management, and community outreach.
 
