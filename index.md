@@ -28,6 +28,22 @@ Bachelor of Science, December 2020<br>
 Computer Science<br>
 GPA: 4.00 / 4.00
 
+## Project Experience
+---
+
+[**CI/CD LaTeX Resume**](https://github.com/chwerth/LaTeX_Resume)
+
+This is my resume, except written in LaTeX. The format is modeled after the UA Manderson Graduate School of Business format. Whenever I push a new tag to the repository, Travis CI automatically constructs a new PDF resume from the LaTeX code and publishes it to the "releases" tab.
+
+[**RAstral Rampart (Arcade Game)**](https://github.com/chwerth/RAstral_Rampart)
+
+This is an open-source arcade style space shooter written in Python that features a rotating gun at the bottom of the screen that rotates left and right without input from the player. The player can hit the space bar to fire the gun, destroying incoming missiles! If a missile explodes at the bottom of the screen, the player loses health. There are also power-ups that the player can shoot!
+
+[**Sus Highlight**](https://devpost.com/software/sus-highlight)
+
+A Django based web application that uses Python's open-source machine learning libraries (scikit, sklearn, nltk, and NumPy) to scan inputted terms of service agreements and output highlighted suspicious portions of the agreement that the user may want to review further. This project was submitted to HackGT 7.
+
+
 ## Work Experience
 ---
 
@@ -87,4 +103,4 @@ Public Speaking, Writing, Project Management, Leadership, Scaled Agile Framework
 
 ### Tools
 
-MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart
+MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart, LaTeX
