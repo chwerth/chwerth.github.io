@@ -14,12 +14,14 @@
 - JavaScript
 - SQL
 - XML
+
 ### Soft Skills
 - Public Speaking
 - Writing
 - Project Management
 - Leadership
 - Scaled Agile Framework (SAFe)
+
 ### Tools
 - MATLAB
 - Jenkins
