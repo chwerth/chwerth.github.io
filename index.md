@@ -1,13 +1,36 @@
-## Curriculum Vitae
+# Curriculum Vitae
 
-### Skills
+## Skills
 ---
 
-**Programming Languages**: Python, C, C++, Bash, CMake, HTML, CSS, JavaScript, SQL, XML<br>
-**Soft Skills**: Public Speaking, Writing, Project Management, Leadership, Scaled Agile Framework (SAFe)<br>
-**Tools**: MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart<br>
+### Programming Languages  
+- Python
+- C
+- C++
+- Bash
+- CMake
+- HTML
+- CSS
+- JavaScript
+- SQL
+- XML
+### Soft Skills
+- Public Speaking
+- Writing
+- Project Management
+- Leadership
+- Scaled Agile Framework (SAFe)
+### Tools
+- MATLAB
+- Jenkins
+- Linux
+- Vim
+- Git
+- Google Test
+- Visual Studio
+- Lucidchart
 
-### Education
+## Education
 ---
 
 **The University of Alabama**, Tuscaloosa, AL<br>
@@ -20,10 +43,10 @@ Bachelor of Science, December 2020<br>
 Computer Science<br>
 GPA: 4.00 / 4.00
 
-### Work Experience
+## Work Experience
 ---
 
-#### **The University of Alabama**, Tuscaloosa, AL
+### **The University of Alabama**, Tuscaloosa, AL
 
 **Computer Science Camp Counselor**, June 2018
 - Provided teaching and logistical support for UA’s 2018 CS Summer Camp for high school students
