@@ -58,5 +58,5 @@ GPA: 4.00 / 4.00
 **Freshman Advisor**, August 2017 - May 2018
 - Designed and created bulletin boards for the Ridgecrest East residence hall
 - Served as a resource for freshmen living in the hall
-- Provided marketing support to HRC
+- Provided marketing support to Housing and Residential Communities
 - Organized, marketed, and executed a chess tournament for the Ridgecrest area
