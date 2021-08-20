@@ -49,6 +49,14 @@ A Django based web application that uses Python's open-source machine learning l
 
 ### **Dynetics, Inc.**, Huntsville, AL
 
+**Computer Analyst III**, January 2021 - Present
+- Wrote and managed CI/CD pipelines in Jenkins to automatically test multiple C++ projects
+- Provided training to department on basics of automated testing in Jenkins
+- Co-authored automated delivery pipeline to generate change logs and prepare repositories for customers
+- Supported developers by providing algorithm optimization strategies, in one case cutting an algorithm's runtime to 20% of original
+- Implemented features and fixed bugs for MATLAB GUI application - often spoke to customer and implemented their feedback
+- Provided support and guidance on design decisions, project flow, and Python implementation of verification and validation suite
+
 **Software Engineering Intern**, May 2020 - August 2020
 - Led overhaul of automated testing infrastructure to enable consistent testing of MATLAB model behavior
 - Introduced new C++ unit testing framework to improve verification and validation processes
