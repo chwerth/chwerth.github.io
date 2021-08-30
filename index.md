@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Resume
 
 ## Summary
 ---
@@ -24,8 +24,7 @@ Focus Area: Supply Chain and Operations Management<br>
 GPA: 3.60 / 4.00
 
 **The University of Alabama**, Tuscaloosa, AL<br>
-Bachelor of Science, December 2020<br>
-Computer Science<br>
+Bachelor of Science in Computer Science, December 2020<br>
 GPA: 4.00 / 4.00
 
 ## Project Experience
@@ -43,6 +42,7 @@ This is an open-source arcade style space shooter written in Python that feature
 
 A Django based web application that uses Python's open-source machine learning libraries (scikit, sklearn, nltk, and NumPy) to scan inputted terms of service agreements and output highlighted suspicious portions of the agreement that the user may want to review further. This project was submitted to HackGT 7.
 
+*To find out more about these projects, click on the project titles to be taken directly to project pages*
 
 ## Work Experience
 ---
@@ -54,7 +54,7 @@ A Django based web application that uses Python's open-source machine learning l
 - Provided training to department on basics of automated testing in Jenkins
 - Co-authored automated delivery pipeline to generate change logs and prepare repositories for customers
 - Supported developers by providing algorithm optimization strategies, in one case cutting an algorithm's runtime to 20% of original
-- Implemented features and fixed bugs for MATLAB GUI application - often spoke to customer and implemented their feedback
+- Implemented features and fixed bugs for MATLAB GUI application; often spoke to customer and implemented their feedback
 - Provided support and guidance on design decisions, project flow, and Python implementation of verification and validation suite
 
 **Software Engineering Intern**, May 2020 - August 2020
@@ -98,6 +98,50 @@ A Django based web application that uses Python's open-source machine learning l
 - Provided marketing support to Housing and Residential Communities
 - Organized, marketed, and executed a chess tournament for the Ridgecrest area
 
+## Honors/Leadership/Activities
+
+- Awarded Eagle Scout Rank, December 2015
+- Led team to construct two 3' by 40' raised beds for CASA Community Garden for Eagle Project, October 2015
+- UA in India: Reverse Innovation in India program, July 2018
+- Started Lego Robotics program with ADTRAN and Huntsville Inner City Learning Center, December 2019
+- Served as co-chair for Community Involvement Committee with Dynetics Young Professionals, April 2021 - August 2021
+- Kids Small Group Leader, Church of the Highlands Huntsville/Tuscaloosa, September 2019 - Present
+- University of Alabama President's List (5), Dean's List (2)
+
+## Relevant Coursework
+---
+
+### Technical
+
+- Calculus I, II, III
+- Computer Algorithms
+- Computer Graphics
+- Data Structures and Algorithms
+- Database Management Systems
+- Digital Logic
+- Discrete Mathematics
+- Engineering Foundations
+- Honors Seminar on Cyber Security
+- Linear Algebra
+- Microcomputers
+- Network Security
+- Operating Systems
+- Physics I, II
+- Programming Languages
+- Software Design & Engineering
+- Theory of Probability
+
+### Business
+
+- Introduction to World Business (Study Abroad in India)
+- Management Science and Spreadsheet Modeling
+- Managerial Accounting
+- Statistical Methods
+
+### Creative
+
+- Screenwriting
+
 ## Skills
 ---
 
@@ -107,7 +151,7 @@ Python, C, C++, Bash, CMake, HTML, CSS, JavaScript, SQL, XML
 
 ### Soft Skills
 
-Public Speaking, Writing, Project Management, Leadership, Scaled Agile Framework (SAFe)
+Public Speaking, Writing (Technical and Creative), Project Management, Leadership, Scaled Agile Framework (SAFe)
 
 ### Tools
 
