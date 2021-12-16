@@ -21,7 +21,7 @@ I am a software engineer with a diverse set of technical and soft skills derived
 **The University of Alabama**, Tuscaloosa, AL<br>
 Master of Business Administration, August 2022<br>
 Focus Area: Supply Chain and Operations Management<br>
-GPA: 3.60 / 4.00
+GPA: 3.80 / 4.00
 
 **The University of Alabama**, Tuscaloosa, AL<br>
 Bachelor of Science in Computer Science, December 2020<br>
