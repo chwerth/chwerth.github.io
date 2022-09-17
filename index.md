@@ -19,9 +19,9 @@ I am a software engineer with a diverse set of technical and soft skills derived
 ---
 
 **The University of Alabama**, Tuscaloosa, AL<br>
-Master of Business Administration, August 2022<br>
+Master of Business Administration, December 2022<br>
 Focus Area: Supply Chain and Operations Management<br>
-GPA: 3.80 / 4.00
+GPA: 3.87 / 4.00
 
 **The University of Alabama**, Tuscaloosa, AL<br>
 Bachelor of Science in Computer Science, December 2020<br>
@@ -71,6 +71,14 @@ A Django based web application that uses Python's open-source machine learning l
 - Added logging to Jenkins pipeline using Robot Framework to assist with debugging
 
 ### **WinShape Camps**, Rome, GA
+
+**Theme Director**, May 2022 - August 2022
+- Delivered 25 - 30 minutes of speaking content to audiences of 150 - 450 daily
+- Ensured overall direction and consistency of camp theme
+- Developed summer staff as communicators through one-on-one coaching
+- Worked with children across K - 8th grade, volunteers ages 14+
+- Led crew to set up small group rooms for camp
+- Co-led and served team of 24 staff
 
 **Summer Staff**, May 2019 - August 2019
 - Taught 4th-5th grade campers themed content and led groups in discussions and activities
@@ -133,10 +141,20 @@ A Django based web application that uses Python's open-source machine learning l
 
 ### Business
 
+- Business Policy
+- Financial Management
 - Introduction to World Business (Study Abroad in India)
+- Inventory Management
+- Leadership and Ethics
+- Management Communication
+- Management Information Systems
 - Management Science and Spreadsheet Modeling
 - Managerial Accounting
+- Marketing Management & Decision Making
+- Operations Management
+- Purchasing & Sourcing
 - Statistical Methods
+- Supply Chain Modeling & Analysis
 
 ### Creative
 
@@ -155,4 +173,4 @@ Public Speaking, Writing (Technical and Creative), Project Management, Leadershi
 
 ### Tools
 
-MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart, LaTeX
+MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart, Flutter, LaTeX
