@@ -97,6 +97,11 @@ A Django based web application that uses Python's open-source machine learning l
 
 ### **The University of Alabama**, Tuscaloosa, AL
 
+**Graduate Research Assistant**, Spring 2022
+- Supported effort to combat human trafficking with data analysis
+- Performed statistical analysis and data visualization using Python libraries like scipy, pandas, and matplotlib
+- Improved Python web scraping script to be more efficient by not downloading unnecessary files
+
 **Computer Science Camp Counselor**, June 2018
 - Provided teaching and logistical support for UA’s 2018 CS Summer Camp for high school students
 - Taught Java using the Greenfoot environment to campers during the day
