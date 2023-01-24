@@ -10,7 +10,7 @@ I am a software engineer with a diverse set of technical and soft skills derived
 
 **Phone**: 256-655-8135
 
-**Email**: cwerth@crimson.ua.edu
+**Email**: caleb.werth@gmail.com
 
 **LinkedIn**: [https://www.linkedin.com/in/chwerth/](https://www.linkedin.com/in/chwerth/)
 
@@ -21,7 +21,7 @@ I am a software engineer with a diverse set of technical and soft skills derived
 **The University of Alabama**, Tuscaloosa, AL<br>
 Master of Business Administration, December 2022<br>
 Focus Area: Supply Chain and Operations Management<br>
-GPA: 3.87 / 4.00
+GPA: 3.88 / 4.00
 
 **The University of Alabama**, Tuscaloosa, AL<br>
 Bachelor of Science in Computer Science, December 2020<br>
@@ -50,6 +50,8 @@ A Django based web application that uses Python's open-source machine learning l
 ### **Dynetics, Inc.**, Huntsville, AL
 
 **Computer Analyst III**, January 2021 - Present
+- Supported initial development of UDP network interface for communication with our models in simulation framework
+- Performed analysis on model and generated documentation on findings at request of customer
 - Wrote and managed CI/CD pipelines in Jenkins to automatically test multiple C++ projects
 - Provided training to department on basics of automated testing in Jenkins
 - Co-authored automated delivery pipeline to generate change logs and prepare repositories for customers
@@ -143,10 +145,12 @@ A Django based web application that uses Python's open-source machine learning l
 
 - Business Policy
 - Financial Management
+- Global Business
 - Introduction to World Business (Study Abroad in India)
 - Inventory Management
 - Leadership and Ethics
 - Management Communication
+- Managerial Economics
 - Management Information Systems
 - Management Science and Spreadsheet Modeling
 - Managerial Accounting
