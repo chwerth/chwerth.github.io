@@ -32,7 +32,7 @@ GPA: 4.00 / 4.00
 
 [**CI/CD LaTeX Resume**](https://github.com/chwerth/LaTeX_Resume)
 
-This is my resume, except written in LaTeX. The format is modeled after the UA Manderson Graduate School of Business format. Whenever I push a new tag to the repository, Travis CI automatically constructs a new PDF resume from the LaTeX code and publishes it to the "releases" tab.
+This is my resume, except written in LaTeX. The format is modeled after the UA Manderson Graduate School of Business format. Whenever I push a new tag to the repository, GitHub Actions automatically constructs a new PDF resume from the LaTeX code and publishes it to the "releases" tab.
 
 [**RAstral Rampart (Arcade Game)**](https://github.com/chwerth/RAstral_Rampart)
 
@@ -172,7 +172,7 @@ A Django based web application that uses Python's open-source machine learning l
 ## Skills
 ---
 
-### Programming Languages  
+### Programming Languages
 
 Python, C, C++, Bash, CMake, HTML, CSS, JavaScript, SQL, XML
 
