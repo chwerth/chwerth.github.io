@@ -192,4 +192,4 @@ Public Speaking, Writing (Technical and Creative), Project Management, Leadershi
 
 ### Tools
 
-Cameo Systems Modeler, MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart, Flutter, LaTeX
+Cameo Systems Modeler, MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Jira, Flutter, LaTeX
