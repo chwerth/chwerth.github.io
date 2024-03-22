@@ -188,7 +188,7 @@ Python, C, C++, Bash, MATLAB, CMake, HTML, CSS, JavaScript, SQL, XML, UML
 
 ### Soft Skills
 
-Public Speaking, Writing (Technical and Creative), Project Management, Leadership, Scaled Agile Framework (SAFe)
+Public Speaking, Writing (Technical and Creative), Project Management, Leadership, Scrum, Agile, Scaled Agile Framework (SAFe)
 
 ### Tools
 
