@@ -47,9 +47,17 @@ A Django based web application that uses Python's open-source machine learning l
 ## Work Experience
 ---
 
+### **Auria Space**, Huntsville, AL
+
+**Software Engineer**, March 2023 - Present
+- Saved an estimated month of developer time by creating tool in Python that used regular expressions to search C++ codebase for compatibility issues and autogenerate Excel report
+- Authored Bash script to produce timing report for different system test cases of C++ program run in GitLab pipeline
+- Used Cameo Systems Modeler to create UML activity diagrams of software behavior as part of overall MBSE effort
+- Produced and gave live training to multiple teams on unit testing in Google Test
+
 ### **Dynetics, Inc.**, Huntsville, AL
 
-**Computer Analyst III**, January 2021 - Present
+**Computer Analyst III**, January 2021 - March 2023
 - Supported initial development of UDP network interface for communication with our models in simulation framework
 - Performed analysis on model and generated documentation on findings at request of customer
 - Wrote and managed CI/CD pipelines in Jenkins to automatically test multiple C++ projects
