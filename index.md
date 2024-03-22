@@ -123,12 +123,14 @@ A Django based web application that uses Python's open-source machine learning l
 
 ## Honors/Leadership/Activities
 
+- Scrum Alliance Certified Scrum Master ([CSM](https://bcert.me/sqcdwlemz))
+- Scrum Alliance Certified Scrum Product Owner ([CSPO](https://bcert.me/smphouhlt))
+- CompTIA [Project+](https://www.credly.com/badges/9177a9b8-29d9-4896-95cc-f448e908ddb7) Certification
 - Awarded Eagle Scout Rank, December 2015
 - Led team to construct two 3' by 40' raised beds for CASA Community Garden for Eagle Project, October 2015
 - UA in India: Reverse Innovation in India program, July 2018
 - Started Lego Robotics program with ADTRAN and Huntsville Inner City Learning Center, December 2019
 - Served as co-chair for Community Involvement Committee with Dynetics Young Professionals, April 2021 - August 2021
-- Kids Small Group Leader, Church of the Highlands Huntsville/Tuscaloosa, September 2019 - Present
 - University of Alabama President's List (5), Dean's List (2)
 
 ## Relevant Coursework
@@ -182,7 +184,7 @@ A Django based web application that uses Python's open-source machine learning l
 
 ### Programming Languages
 
-Python, C, C++, Bash, CMake, HTML, CSS, JavaScript, SQL, XML
+Python, C, C++, Bash, MATLAB, CMake, HTML, CSS, JavaScript, SQL, XML, UML
 
 ### Soft Skills
 
@@ -190,4 +192,4 @@ Public Speaking, Writing (Technical and Creative), Project Management, Leadershi
 
 ### Tools
 
-MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart, Flutter, LaTeX
+Cameo Systems Modeler, MATLAB, Jenkins, Linux, Vim, Git, Google Test, Visual Studio, Lucidchart, Flutter, LaTeX
