@@ -51,26 +51,21 @@ A Django based web application that uses Python's open-source machine learning l
 
 **Software Engineer**, March 2023 - Present
 - Saved an estimated month of developer time by creating tool in Python that used regular expressions to search C++ codebase for compatibility issues and autogenerate Excel report
-- Authored Bash script to produce timing report for different system test cases of C++ program run in GitLab pipeline
+- Authored Bash script to produce timing report for system test cases of embedded C++ program run in GitLab pipeline
 - Used Cameo Systems Modeler to create UML activity diagrams of software behavior as part of overall MBSE effort
 - Produced and gave live training to multiple teams on unit testing in Google Test
 
 ### **Dynetics, Inc.**, Huntsville, AL
 
-**Computer Analyst III**, January 2021 - March 2023
+**Computer Analyst**, May 2020 - March 2023
 - Supported initial development of UDP network interface for communication with our models in simulation framework
-- Performed analysis on model and generated documentation on findings at request of customer
-- Wrote and managed CI/CD pipelines in Jenkins to automatically test multiple C++ projects
+- Wrote and managed CI/CD pipelines in Jenkins to automatically unit test multiple C++ projects
+- Introduced Google Test to improve verification and validation processes for C++ code
 - Provided training to department on basics of automated testing in Jenkins
-- Co-authored automated delivery pipeline to generate change logs and prepare repositories for customers
-- Supported developers by providing algorithm optimization strategies, in one case cutting an algorithm's runtime to 20% of original
-- Implemented features and fixed bugs for MATLAB GUI application; often spoke to customer and implemented their feedback
-- Provided support and guidance on design decisions, project flow, and Python implementation of verification and validation suite
-
-**Software Engineering Intern**, May 2020 - August 2020
-- Led overhaul of automated testing infrastructure to enable consistent testing of MATLAB model behavior
-- Introduced new C++ unit testing framework to improve verification and validation processes
-- Prototyped automated documentation generation using Jenkins, Python, and LaTeX
+- Co-authored automated delivery pipeline to generate documentation and prepare repositories for customers
+- Supported developers with algorithm optimization strategies, in one case cutting an algorithm's runtime to 20% of original
+- Implemented features and fixed bugs for MATLAB GUI application; often spoke to customer and implemented feedback
+- Provided support on design decisions, project flow, and Python implementation of verification and validation suite
 
 ### **ADTRAN**, Huntsville, AL
 
@@ -126,6 +121,7 @@ A Django based web application that uses Python's open-source machine learning l
 - Scrum Alliance Certified Scrum Master ([CSM](https://bcert.me/sqcdwlemz))
 - Scrum Alliance Certified Scrum Product Owner ([CSPO](https://bcert.me/smphouhlt))
 - CompTIA [Project+](https://www.credly.com/badges/9177a9b8-29d9-4896-95cc-f448e908ddb7) Certification
+- Linux Foundation Certified Systems Administrator ([LFCS](https://www.credly.com/badges/583b1e8f-6929-4b9c-bad5-7c1a590913eb/public_url))
 - Awarded Eagle Scout Rank, December 2015
 - Led team to construct two 3' by 40' raised beds for CASA Community Garden for Eagle Project, October 2015
 - UA in India: Reverse Innovation in India program, July 2018
